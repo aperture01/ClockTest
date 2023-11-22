@@ -1,1 +1,1 @@
-Test whatever 
+from tkinter import tk, Label
