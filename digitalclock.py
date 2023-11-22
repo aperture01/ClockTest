@@ -1,1 +1,1 @@
-from tkinter import tk, Label
+from r import tk, Label
